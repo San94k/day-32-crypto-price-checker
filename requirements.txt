@@ -1,0 +1,1 @@
+# stdlib only example, no extra deps
